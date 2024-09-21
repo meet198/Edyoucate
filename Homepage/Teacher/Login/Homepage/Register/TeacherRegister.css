@@ -1,0 +1,26 @@
+input[type="text"]{
+    display:block;
+}
+form{
+    position:relative;
+    left:175px;
+    top: 80px;
+}
+body{
+    background-image:url("http://www.pulsarwallpapers.com/data/media/3/Alien%20Ink%202560X1600%20Abstract%20Background.jpg");
+
+}
+
+input[type=submit]{
+    border-radius:7px;
+    width:140px;
+    position:fixed;
+    left:200px;
+    top:440px;
+    background-color:lightblue;
+    font-weight:bold;
+    color:black;
+    border:2px solid lightblue;
+    display:inline-block;
+    opacity:1;
+}
